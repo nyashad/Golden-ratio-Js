@@ -36,7 +36,7 @@ function draw() {
 
   noStroke();
   fill(gCol);
-  text("cyclic hexagon", -w / 2 + 10, w / 2 - 5);
+  // text("cyclic hexagon", -w / 2 + 10, w / 2 - 5);
 }
 function chex(r, a) {
   push();
