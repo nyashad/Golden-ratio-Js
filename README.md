@@ -13,8 +13,8 @@ This JavaScript project, powered by p5.js, animates rotating hexagons based on t
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/golden-ratio-animation.git
-cd golden-ratio-animation
+git clone https://github.com/nyashad/Golden-ratio-Js.git
+cd Golden-ratio-Js
 
 ## 2. Open in Browser
 
